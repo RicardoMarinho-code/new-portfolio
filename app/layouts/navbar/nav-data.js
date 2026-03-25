@@ -31,7 +31,7 @@ export const socialLinks = [
     icon: 'linkedin'
   },
   {
-    label: 'Workana',
+    label: 'workana',
     url: `https://www.workana.com/freelancer/${config.workana}`,
     icon: 'workana'
   },
